@@ -1,6 +1,3 @@
-array = [1, 2, 3]
-Math.sqrt(array[count])
-
 def square_array(array)
   count = 0
   new_array = []
