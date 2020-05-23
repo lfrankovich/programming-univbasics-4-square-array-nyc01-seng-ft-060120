@@ -3,7 +3,7 @@ returns a new array of these squared numbers.
 
 def square_array(array)
   new_array = []
-  while 
+  while count
   
 end
 
