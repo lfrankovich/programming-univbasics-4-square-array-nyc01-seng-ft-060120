@@ -1,11 +1,9 @@
-quares each element in an array of numbers and
-returns a new array of these squared numbers.
-
 def square_array(array)
+  count = 0
   new_array = []
-  while count
-  
+  while count < array.length do
+    new_array.push(Math.sqrt(array[count]))
+    count += 1
+  end
+  new_array
 end
-
-**
-Math.sqrt(value)
