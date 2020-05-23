@@ -1,5 +1,5 @@
 array = [1, 2, 3]
-
+Math.sqr
 
 def square_array(array)
   count = 0
